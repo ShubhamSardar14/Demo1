@@ -1,1 +1,2 @@
-this file contain all information required for B1 branch
+this file contain all information required for B1 branch.
+also special feature is mentioned.
